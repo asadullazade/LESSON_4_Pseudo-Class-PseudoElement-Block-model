@@ -1,0 +1,227 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.title {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.active {
+  color: rgb(3, 64, 28);
+  font-family: Roboto;
+  background: rgb(214, 240, 224);
+  border-radius: 30px;
+  padding: 4px 8px;
+}
+.name {
+  color: rgb(79, 79, 79);
+  font-family: Roboto;
+  font-size: 14.4px;
+  font-weight: 700;
+  padding: 16px 22px;
+}
+.mains {
+  margin-bottom: 20px;
+}
+
+.onboarding {
+  color: rgb(44, 88, 160);
+  font-family: Roboto;
+  background: rgb(223, 231, 246);
+  border-radius: 30px;
+}
+.awaiting {
+  color: rgb(115, 81, 13);
+  font-family: Roboto;
+  background: rgb(251, 240, 218);
+  border-radius: 30px;
+}
+
+.work {
+  color: rgb(79, 79, 79);
+  font-family: Roboto;
+  padding: 16px 22px;
+}
+.status {
+  padding: 16px 22px;
+}
+
+.position {
+  color: rgb(79, 79, 79);
+  font-family: Roboto;
+  padding: 16px 22px;
+}
+.btn-1 {
+  margin: 26px 300px 26px 28px;
+}
+.btn-2 {
+  margin-right: 16px;
+}
+.avion {
+  margin: 10px 230px 10px 24px;
+}
+.header-section {
+  margin: 24px 46px;
+}
+.img-1 {
+  width: 390px;
+  height: 304px;
+}
+.main {
+  color: rgb(114, 110, 141);
+  font-family: Satoshi;
+  font-size: 16px;
+}
+.luxury {
+  color: rgb(42, 37, 75);
+  font-family: Clash Display;
+  font-size: 24px;
+  padding: 24px 46px 0px 46px;
+}
+.collection {
+  color: rgb(42, 37, 75);
+  font-family: Satoshi;
+  font-size: 16px;
+  padding: 12px;
+  margin-bottom: 32px;
+}
+.btn {
+  color: rgb(42, 37, 75);
+  font-family: Satoshi;
+  font-size: 16px;
+  padding: 16px 32px;
+  margin-bottom: 48px;
+}
+.section-2 {
+  width: 1440px;
+  height: 476px;
+  margin: 80px;
+}
+.img-margin-1 {
+  margin-bottom: 12px;
+}
+.div {
+  background-color: darkgray;
+  margin-bottom: 22px;
+}
+.brand {
+  text-align: center;
+  color: rgb(42, 37, 75);
+  font-family: Clash Display;
+  font-size: 20px;
+  margin: 80px 544px 36px 530px;
+}
+.feature {
+  color: rgb(42, 37, 75);
+  font-family: Clash Display;
+  font-size: 20px;
+  margin-bottom: 12px;
+}
+.option {
+  color: rgb(42, 37, 75);
+  font-family: Satoshi;
+  font-size: 16px;
+}
+.section-3 {
+  margin: 28px 80px 100px 80px;
+}
+.img-margin-2 {
+  margin: 24px;
+}
+.list {
+  color: rgb(42, 37, 75);
+  font-family: Clash Display;
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+.idea {
+  color: rgb(255, 255, 255);
+  font-family: Clash Display;
+  font-size: 20px;
+  padding: 36px 32px 0px 32px;
+  margin-bottom: 12px;
+}
+.story {
+  color: rgb(255, 255, 255);
+  font-family: Satoshi;
+  font-size: 14px;
+  padding-left: 32px;
+}
+.btn-2 {
+  margin: 32px;
+  padding: 16px 32px;
+}
+.club {
+  color: rgb(255, 255, 255);
+  font-family: Clash Display;
+  font-size: 24px;
+  padding: 24px;
+}
+.newsletter {
+  color: rgb(255, 255, 255);
+  font-family: Satoshi;
+  font-size: 14px;
+  padding: 24px;
+}
+.benefits {
+  color: rgb(255, 255, 255);
+  font-family: Satoshi;
+  font-size: 16px;
+  padding: 24px;
+}
+
+.benefits-mrgn {
+  margin-bottom: 8px;
+}
+.sign {
+  color: rgb(42, 37, 75);
+  font-family: Satoshi;
+  font-size: 16px;
+  margin: 24px;
+  padding: 16px 32px;
+}
+.input {
+  padding: 18px 32px;
+}
+.options {
+  color: rgb(255, 255, 255);
+  font-family: Clash Display;
+  font-size: 16px;
+  padding: 20px 12px;
+}
+.items {
+  color: rgb(255, 255, 255);
+  font-family: Satoshi;
+  font-size: 14px;
+  margin-bottom: 12px;
+}
+
+.color {
+  background: rgb(42, 37, 75);
+  margin: 60px 80px;
+}
+.join {
+  color: white;
+  margin-bottom: 16px;
+}
+.date {
+  color: white;
+}
+.cost {
+  color: rgb(42, 37, 75);
+  font-family: Satoshi;
+  font-size: 18px;
+}
+
+.head {
+  background-color: darkgray;
+  padding: 16px 22px;
+  margin: 0px 10px;
+}
+
+.edit {
+  padding: 6px 16px;
+}
+.img {
+  padding: 18px 22px 16px 18px;
+}
